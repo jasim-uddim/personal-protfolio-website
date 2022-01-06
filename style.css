@@ -40,23 +40,19 @@ h1 {
 }
 /* spcific css/style */
 #main-container {
-  margin: 10px 30px 30px;
-  padding: 30px;
+  padding: 5px;
 }
 #mission {
-  margin: 20px;
   padding: 20px;
   background-image: url(images/shape-3.png);
   background-repeat: no-repeat;
 }
 #vision {
-  margin: 20px;
   padding: 20px;
   background-image: url(images/shape-4.png);
   background-repeat: no-repeat;
 }
 #gole {
-  margin: 20px;
   padding: 20px;
   background-image: url(images/shape-5.png);
   background-repeat: no-repeat;
